@@ -1,0 +1,5 @@
+export const ADD_DATA = "ADD_DATA";
+export const ADD_COLOR = "ADD_COLOR";
+export const DECREMENT_ROUNDS = "DECREMENT_ROUNDS";
+export const RIGHT_CLICK_COUNT = "RIGHT_CLICK_COUNT";
+export const WRONG_CLICK_COUNT = "WRONG_CLICK_COUNT";
